@@ -5,6 +5,11 @@ Following are the subjects and respective projects:
   |------|---------------|-----------|---------------
   | 1 |   Statistical Methods for Decision Making   | Austo Automobile | EDA
   | 2 |   Inferential Statistics | Dental Implants | Probability, Hypothesis Testing, ANOVA
-  3 | Clustering | Digital Ads and Census | KNN, PCA
+  3 | Clustering | Digital Ads and Census | K-Means, PCA
   4 | Predictive Modeling | Comp-activ networking, Indonesia MOH survey | Linear & Logistic Regression
-  5 | 
+  5 | Machine Learning and Text Analytics | Voting Prediction and Speech Analysis | KNN, Naive Bayes, Ensemble Techniques
+  6 | SQL | Various, Question based | Joins, Case, Having, With, Where, etc.
+  7 | Hackathon | Airlines Survey | Machine Learning 
+  8 | Time Series Forecasting | Wine Sales | Exponential Smoothing, ARIMA, SARIMA
+  9 | Marketing & Retail Analytics | Customer Segmentation, Supermarket | RFM Analysis, Association Rules
+  10 | Financial Risk Analytics | Commercial Credit Risk, Market Risk | Machine Learning, Log based analysis
