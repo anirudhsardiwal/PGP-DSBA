@@ -11,7 +11,7 @@ Following are the subjects and respective projects:
   6 | **SQL** | Various, Question based | Joins, Case, Having, With, Where, etc.
   7 | **Hackathon** | Airlines Survey | Machine Learning 
   8 | **Time Series Forecasting** | Wine Sales | Exponential Smoothing, ARIMA, SARIMA
-  9 | **Marketing & Retail Analytics** | Customer Segmentation, Supermarket | RFM Analysis, Association Rules
+  9 | **Marketing & Retail Analytics** | Customer Segmentation, Supermarket | KNIME, RFM Analysis, Association Rules
   10 | **Financial Risk Analytics** | Commercial Credit Risk, Market Risk | Machine Learning, Log based analysis
   11 | **Tableau** | Car Insurance Claims | TopN, Filtering, Parameters, Calculated Fields, etc.
 
